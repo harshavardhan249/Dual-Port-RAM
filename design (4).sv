@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 // File Name   : dual_port_ram.sv
-// Author      : Kartik Malipatil (1BM23EC117)
+// Author      : Harshavardhan K (1BM23EC098)
 // Date        : 03-Feb-2026
 // Course      : SystemVerilog and Verification (23EC6PE2SV)
 // Faculty     : Prof. Ajaykumar Devarapalli
